@@ -5,7 +5,6 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>Sanity testing</name>
   <description>Sanity on client migration</description>
-  
   <build>
   <plugins>
    <plugin>
@@ -28,7 +27,6 @@
    </plugin>
   </plugins>
  </build>
-  
     <properties>
   <selenium.version>3.141.0</selenium.version>
   <testng.version>6.14.2</testng.version>
