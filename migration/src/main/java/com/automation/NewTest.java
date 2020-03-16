@@ -23,7 +23,7 @@ public class NewTest {
 	  
 	  @AfterClass
 	  public void afterClass() {
-		  driver.quit(); //testeee
+		  driver.quit(); 
 	  }
 	  
   @Test
